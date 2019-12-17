@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ViewInc/my-test-ci-cd/_apis/build/status/echen25.pipelines-java?branchName=master)](https://dev.azure.com/ViewInc/my-test-ci-cd/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
